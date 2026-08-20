@@ -6,6 +6,13 @@ Frustrated by my AA-battery-powered Milk Frother, I decided to build my own Frot
 
 I intended to power the Frother using 12V Power Adaptor. I didn't add an ESC or Motor Driver as I don't need to control the motor speed. However you can use a lower voltage power adaptor or motor for lower speeds. There is also a switch for quick ON/OFF if things go haywire.
 
+<table>
+  <tr>
+    <img src="images/demo1.jpeg" alt="image1" width="45%">
+    <img src="images/demo2.jpeg" alt="image2" width="45%">
+  </tr>
+</table>
+
 ## Schematic
 
 ![schematic](images/schematic.jpg)
